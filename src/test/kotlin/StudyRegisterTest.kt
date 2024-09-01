@@ -1,7 +1,7 @@
-import org.example.CourseRecord
-import org.example.Human
-import org.example.Major
-import org.example.Student
+import org.example.Lab01.CourseRecord
+import org.example.Lab01.Human
+import org.example.Lab01.Major
+import org.example.Lab01.Student
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.Assertions.*
 internal class StudyRegisterTest {

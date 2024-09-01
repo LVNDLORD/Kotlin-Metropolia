@@ -1,4 +1,4 @@
-package org.example
+package org.example.Lab01
 
 class Major(name: String) {
     private var students = arrayListOf<Student>()
